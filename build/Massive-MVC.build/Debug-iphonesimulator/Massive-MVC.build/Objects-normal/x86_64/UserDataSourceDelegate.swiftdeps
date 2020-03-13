@@ -1,0 +1,664 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "UserDataSourceDelegate"
+provides-nominal:
+- "11Massive_MVC22UserDataSourceDelegateC"
+provides-member:
+- ["11Massive_MVC22UserDataSourceDelegateC", ""]
+provides-dynamic-lookup:
+- "tableView"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "IndexPath"
+- "Int"
+- "NSObject"
+- !private "StringLiteralType"
+- "UITableView"
+- "UITableViewCell"
+- "UITableViewDataSource"
+- "UITableViewDelegate"
+- "UserDataSourceDelegate"
+- "UserEntity"
+- !private "UserListCell"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["s13ArrayProtocolP", "count"]
+- !private ["s13ArrayProtocolP", "subscript"]
+- !private ["SK", "count"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "row"]
+- !private ["SK", "subscript"]
+- !private ["So15CALayerDelegateP", "configureCell"]
+- !private ["So15CALayerDelegateP", "dequeueReusableCell"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["s7CVarArgP", "UserListCell"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "configureCell"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "dequeueReusableCell"]
+- ["s7CVarArgP", "indexPathForPreferredFocusedView"]
+- ["s7CVarArgP", "indexPathForPreferredFocusedViewInTableView"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "numberOfSections"]
+- ["s7CVarArgP", "numberOfSectionsInTableView"]
+- ["s7CVarArgP", "scrollViewDidChangeAdjustedContentInset"]
+- ["s7CVarArgP", "scrollViewDidEndDecelerating"]
+- ["s7CVarArgP", "scrollViewDidEndDragging"]
+- ["s7CVarArgP", "scrollViewDidEndScrollingAnimation"]
+- ["s7CVarArgP", "scrollViewDidEndZooming"]
+- ["s7CVarArgP", "scrollViewDidScroll"]
+- ["s7CVarArgP", "scrollViewDidScrollToTop"]
+- ["s7CVarArgP", "scrollViewDidZoom"]
+- ["s7CVarArgP", "scrollViewShouldScrollToTop"]
+- ["s7CVarArgP", "scrollViewWillBeginDecelerating"]
+- ["s7CVarArgP", "scrollViewWillBeginDragging"]
+- ["s7CVarArgP", "scrollViewWillBeginZooming"]
+- ["s7CVarArgP", "scrollViewWillEndDragging"]
+- ["s7CVarArgP", "sectionIndexTitles"]
+- ["s7CVarArgP", "sectionIndexTitlesForTableView"]
+- !private ["s7CVarArgP", "subscript"]
+- ["s7CVarArgP", "tableView"]
+- !private ["s7CVarArgP", "userList"]
+- ["s7CVarArgP", "viewForZooming"]
+- ["s7CVarArgP", "viewForZoomingInScrollView"]
+- !private ["Sl", "count"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "row"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "row"]
+- !private ["s28CustomDebugStringConvertibleP", "UserListCell"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "configureCell"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "dequeueReusableCell"]
+- ["s28CustomDebugStringConvertibleP", "indexPathForPreferredFocusedView"]
+- ["s28CustomDebugStringConvertibleP", "indexPathForPreferredFocusedViewInTableView"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "numberOfSections"]
+- ["s28CustomDebugStringConvertibleP", "numberOfSectionsInTableView"]
+- !private ["s28CustomDebugStringConvertibleP", "row"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidChangeAdjustedContentInset"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidEndDecelerating"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidEndDragging"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidEndScrollingAnimation"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidEndZooming"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidScroll"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidScrollToTop"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewDidZoom"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewShouldScrollToTop"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewWillBeginDecelerating"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewWillBeginDragging"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewWillBeginZooming"]
+- ["s28CustomDebugStringConvertibleP", "scrollViewWillEndDragging"]
+- ["s28CustomDebugStringConvertibleP", "sectionIndexTitles"]
+- ["s28CustomDebugStringConvertibleP", "sectionIndexTitlesForTableView"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "tableView"]
+- !private ["s28CustomDebugStringConvertibleP", "userList"]
+- ["s28CustomDebugStringConvertibleP", "viewForZooming"]
+- ["s28CustomDebugStringConvertibleP", "viewForZoomingInScrollView"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "row"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "UserListCell"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "configureCell"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "dequeueReusableCell"]
+- ["s23CustomStringConvertibleP", "indexPathForPreferredFocusedView"]
+- ["s23CustomStringConvertibleP", "indexPathForPreferredFocusedViewInTableView"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "numberOfSections"]
+- ["s23CustomStringConvertibleP", "numberOfSectionsInTableView"]
+- !private ["s23CustomStringConvertibleP", "row"]
+- ["s23CustomStringConvertibleP", "scrollViewDidChangeAdjustedContentInset"]
+- ["s23CustomStringConvertibleP", "scrollViewDidEndDecelerating"]
+- ["s23CustomStringConvertibleP", "scrollViewDidEndDragging"]
+- ["s23CustomStringConvertibleP", "scrollViewDidEndScrollingAnimation"]
+- ["s23CustomStringConvertibleP", "scrollViewDidEndZooming"]
+- ["s23CustomStringConvertibleP", "scrollViewDidScroll"]
+- ["s23CustomStringConvertibleP", "scrollViewDidScrollToTop"]
+- ["s23CustomStringConvertibleP", "scrollViewDidZoom"]
+- ["s23CustomStringConvertibleP", "scrollViewShouldScrollToTop"]
+- ["s23CustomStringConvertibleP", "scrollViewWillBeginDecelerating"]
+- ["s23CustomStringConvertibleP", "scrollViewWillBeginDragging"]
+- ["s23CustomStringConvertibleP", "scrollViewWillBeginZooming"]
+- ["s23CustomStringConvertibleP", "scrollViewWillEndDragging"]
+- ["s23CustomStringConvertibleP", "sectionIndexTitles"]
+- ["s23CustomStringConvertibleP", "sectionIndexTitlesForTableView"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- ["s23CustomStringConvertibleP", "tableView"]
+- !private ["s23CustomStringConvertibleP", "userList"]
+- ["s23CustomStringConvertibleP", "viewForZooming"]
+- ["s23CustomStringConvertibleP", "viewForZoomingInScrollView"]
+- !private ["Se", "count"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "row"]
+- !private ["Se", "subscript"]
+- !private ["SE", "count"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "row"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "UserListCell"]
+- ["SQ", ""]
+- !private ["SQ", "configureCell"]
+- !private ["SQ", "count"]
+- !private ["SQ", "dequeueReusableCell"]
+- ["SQ", "indexPathForPreferredFocusedView"]
+- ["SQ", "indexPathForPreferredFocusedViewInTableView"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- ["SQ", "numberOfSections"]
+- ["SQ", "numberOfSectionsInTableView"]
+- !private ["SQ", "row"]
+- ["SQ", "scrollViewDidChangeAdjustedContentInset"]
+- ["SQ", "scrollViewDidEndDecelerating"]
+- ["SQ", "scrollViewDidEndDragging"]
+- ["SQ", "scrollViewDidEndScrollingAnimation"]
+- ["SQ", "scrollViewDidEndZooming"]
+- ["SQ", "scrollViewDidScroll"]
+- ["SQ", "scrollViewDidScrollToTop"]
+- ["SQ", "scrollViewDidZoom"]
+- ["SQ", "scrollViewShouldScrollToTop"]
+- ["SQ", "scrollViewWillBeginDecelerating"]
+- ["SQ", "scrollViewWillBeginDragging"]
+- ["SQ", "scrollViewWillBeginZooming"]
+- ["SQ", "scrollViewWillEndDragging"]
+- ["SQ", "sectionIndexTitles"]
+- ["SQ", "sectionIndexTitlesForTableView"]
+- !private ["SQ", "subscript"]
+- ["SQ", "tableView"]
+- !private ["SQ", "userList"]
+- ["SQ", "viewForZooming"]
+- ["SQ", "viewForZoomingInScrollView"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "row"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "UserListCell"]
+- ["SH", ""]
+- !private ["SH", "configureCell"]
+- !private ["SH", "count"]
+- !private ["SH", "dequeueReusableCell"]
+- ["SH", "indexPathForPreferredFocusedView"]
+- ["SH", "indexPathForPreferredFocusedViewInTableView"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- ["SH", "numberOfSections"]
+- ["SH", "numberOfSectionsInTableView"]
+- !private ["SH", "row"]
+- ["SH", "scrollViewDidChangeAdjustedContentInset"]
+- ["SH", "scrollViewDidEndDecelerating"]
+- ["SH", "scrollViewDidEndDragging"]
+- ["SH", "scrollViewDidEndScrollingAnimation"]
+- ["SH", "scrollViewDidEndZooming"]
+- ["SH", "scrollViewDidScroll"]
+- ["SH", "scrollViewDidScrollToTop"]
+- ["SH", "scrollViewDidZoom"]
+- ["SH", "scrollViewShouldScrollToTop"]
+- ["SH", "scrollViewWillBeginDecelerating"]
+- ["SH", "scrollViewWillBeginDragging"]
+- ["SH", "scrollViewWillBeginZooming"]
+- ["SH", "scrollViewWillEndDragging"]
+- ["SH", "sectionIndexTitles"]
+- ["SH", "sectionIndexTitlesForTableView"]
+- !private ["SH", "subscript"]
+- ["SH", "tableView"]
+- !private ["SH", "userList"]
+- ["SH", "viewForZooming"]
+- ["SH", "viewForZoomingInScrollView"]
+- !private ["10Foundation9IndexPathV", "row"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "count"]
+- !private ["SM", "row"]
+- !private ["SM", "subscript"]
+- !private ["So8NSCodingP", "configureCell"]
+- !private ["So8NSCodingP", "dequeueReusableCell"]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSObjectC", "IndexPath"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "UITableView"]
+- ["So8NSObjectC", "UITableViewCell"]
+- ["So8NSObjectC", "UserEntity"]
+- !private ["So8NSObjectC", "UserListCell"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "configureCell"]
+- !private ["So8NSObjectC", "dequeueReusableCell"]
+- ["So8NSObjectC", "indexPathForPreferredFocusedView"]
+- ["So8NSObjectC", "indexPathForPreferredFocusedViewInTableView"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "numberOfSections"]
+- ["So8NSObjectC", "numberOfSectionsInTableView"]
+- ["So8NSObjectC", "scrollViewDidChangeAdjustedContentInset"]
+- ["So8NSObjectC", "scrollViewDidEndDecelerating"]
+- ["So8NSObjectC", "scrollViewDidEndDragging"]
+- ["So8NSObjectC", "scrollViewDidEndScrollingAnimation"]
+- ["So8NSObjectC", "scrollViewDidEndZooming"]
+- ["So8NSObjectC", "scrollViewDidScroll"]
+- ["So8NSObjectC", "scrollViewDidScrollToTop"]
+- ["So8NSObjectC", "scrollViewDidZoom"]
+- ["So8NSObjectC", "scrollViewShouldScrollToTop"]
+- ["So8NSObjectC", "scrollViewWillBeginDecelerating"]
+- ["So8NSObjectC", "scrollViewWillBeginDragging"]
+- ["So8NSObjectC", "scrollViewWillBeginZooming"]
+- ["So8NSObjectC", "scrollViewWillEndDragging"]
+- ["So8NSObjectC", "sectionIndexTitles"]
+- ["So8NSObjectC", "sectionIndexTitlesForTableView"]
+- ["So8NSObjectC", "tableView"]
+- ["So8NSObjectC", "userList"]
+- ["So8NSObjectC", "viewForZooming"]
+- ["So8NSObjectC", "viewForZoomingInScrollView"]
+- !private ["So8NSObjectP", "UserListCell"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "configureCell"]
+- !private ["So8NSObjectP", "dequeueReusableCell"]
+- ["So8NSObjectP", "indexPathForPreferredFocusedView"]
+- ["So8NSObjectP", "indexPathForPreferredFocusedViewInTableView"]
+- !private ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "numberOfSections"]
+- ["So8NSObjectP", "numberOfSectionsInTableView"]
+- ["So8NSObjectP", "scrollViewDidChangeAdjustedContentInset"]
+- ["So8NSObjectP", "scrollViewDidEndDecelerating"]
+- ["So8NSObjectP", "scrollViewDidEndDragging"]
+- ["So8NSObjectP", "scrollViewDidEndScrollingAnimation"]
+- ["So8NSObjectP", "scrollViewDidEndZooming"]
+- ["So8NSObjectP", "scrollViewDidScroll"]
+- ["So8NSObjectP", "scrollViewDidScrollToTop"]
+- ["So8NSObjectP", "scrollViewDidZoom"]
+- ["So8NSObjectP", "scrollViewShouldScrollToTop"]
+- ["So8NSObjectP", "scrollViewWillBeginDecelerating"]
+- ["So8NSObjectP", "scrollViewWillBeginDragging"]
+- ["So8NSObjectP", "scrollViewWillBeginZooming"]
+- ["So8NSObjectP", "scrollViewWillEndDragging"]
+- ["So8NSObjectP", "sectionIndexTitles"]
+- ["So8NSObjectP", "sectionIndexTitlesForTableView"]
+- ["So8NSObjectP", "tableView"]
+- !private ["So8NSObjectP", "userList"]
+- ["So8NSObjectP", "viewForZooming"]
+- ["So8NSObjectP", "viewForZoomingInScrollView"]
+- !private ["Sk", "count"]
+- !private ["Sk", "row"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "count"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "subscript"]
+- !private ["10Foundation20ReferenceConvertibleP", "row"]
+- !private ["ST", "count"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "row"]
+- !private ["ST", "subscript"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "configureCell"]
+- !private ["So29UIAccessibilityIdentificationP", "dequeueReusableCell"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So12UIAppearanceP", "configureCell"]
+- !private ["So12UIAppearanceP", "dequeueReusableCell"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So21UIAppearanceContainerP", "configureCell"]
+- !private ["So21UIAppearanceContainerP", "dequeueReusableCell"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So17UICoordinateSpaceP", "configureCell"]
+- !private ["So17UICoordinateSpaceP", "dequeueReusableCell"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So23UIDataSourceTranslatingP", "dequeueReusableCell"]
+- !private ["So13UIDynamicItemP", "configureCell"]
+- !private ["So13UIDynamicItemP", "dequeueReusableCell"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So18UIFocusEnvironmentP", "configureCell"]
+- !private ["So18UIFocusEnvironmentP", "dequeueReusableCell"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So11UIFocusItemP", "configureCell"]
+- !private ["So11UIFocusItemP", "dequeueReusableCell"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So20UIFocusItemContainerP", "configureCell"]
+- !private ["So20UIFocusItemContainerP", "dequeueReusableCell"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So30UIFocusItemScrollableContainerP", "dequeueReusableCell"]
+- !private ["So27UIGestureRecognizerDelegateP", "configureCell"]
+- !private ["So27UIGestureRecognizerDelegateP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "configureCell"]
+- !private ["So30UIPasteConfigurationSupportingP", "dequeueReusableCell"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So11UIResponderC", "configureCell"]
+- !private ["So11UIResponderC", "dequeueReusableCell"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "configureCell"]
+- !private ["So30UIResponderStandardEditActionsP", "dequeueReusableCell"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So12UIScrollViewC", "dequeueReusableCell"]
+- !private ["So20UIScrollViewDelegateP", "UserListCell"]
+- ["So20UIScrollViewDelegateP", ""]
+- ["So20UIScrollViewDelegateP", "indexPathForPreferredFocusedView"]
+- ["So20UIScrollViewDelegateP", "indexPathForPreferredFocusedViewInTableView"]
+- ["So20UIScrollViewDelegateP", "numberOfSections"]
+- ["So20UIScrollViewDelegateP", "numberOfSectionsInTableView"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidChangeAdjustedContentInset"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidEndDecelerating"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidEndDragging"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidEndScrollingAnimation"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidEndZooming"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidScroll"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidScrollToTop"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidZoom"]
+- ["So20UIScrollViewDelegateP", "scrollViewShouldScrollToTop"]
+- ["So20UIScrollViewDelegateP", "scrollViewWillBeginDecelerating"]
+- ["So20UIScrollViewDelegateP", "scrollViewWillBeginDragging"]
+- ["So20UIScrollViewDelegateP", "scrollViewWillBeginZooming"]
+- ["So20UIScrollViewDelegateP", "scrollViewWillEndDragging"]
+- ["So20UIScrollViewDelegateP", "sectionIndexTitles"]
+- ["So20UIScrollViewDelegateP", "sectionIndexTitlesForTableView"]
+- ["So20UIScrollViewDelegateP", "tableView"]
+- !private ["So20UIScrollViewDelegateP", "userList"]
+- ["So20UIScrollViewDelegateP", "viewForZooming"]
+- ["So20UIScrollViewDelegateP", "viewForZoomingInScrollView"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "dequeueReusableCell"]
+- !private ["So11UITableViewC", "dequeueReusableCell"]
+- !private ["So15UITableViewCellC", "configureCell"]
+- !private ["So15UITableViewCellC", "init"]
+- !private ["So21UITableViewDataSourceP", "UserListCell"]
+- ["So21UITableViewDataSourceP", ""]
+- ["So21UITableViewDataSourceP", "indexPathForPreferredFocusedView"]
+- ["So21UITableViewDataSourceP", "indexPathForPreferredFocusedViewInTableView"]
+- ["So21UITableViewDataSourceP", "numberOfSections"]
+- ["So21UITableViewDataSourceP", "numberOfSectionsInTableView"]
+- ["So21UITableViewDataSourceP", "scrollViewDidChangeAdjustedContentInset"]
+- ["So21UITableViewDataSourceP", "scrollViewDidEndDecelerating"]
+- ["So21UITableViewDataSourceP", "scrollViewDidEndDragging"]
+- ["So21UITableViewDataSourceP", "scrollViewDidEndScrollingAnimation"]
+- ["So21UITableViewDataSourceP", "scrollViewDidEndZooming"]
+- ["So21UITableViewDataSourceP", "scrollViewDidScroll"]
+- ["So21UITableViewDataSourceP", "scrollViewDidScrollToTop"]
+- ["So21UITableViewDataSourceP", "scrollViewDidZoom"]
+- ["So21UITableViewDataSourceP", "scrollViewShouldScrollToTop"]
+- ["So21UITableViewDataSourceP", "scrollViewWillBeginDecelerating"]
+- ["So21UITableViewDataSourceP", "scrollViewWillBeginDragging"]
+- ["So21UITableViewDataSourceP", "scrollViewWillBeginZooming"]
+- ["So21UITableViewDataSourceP", "scrollViewWillEndDragging"]
+- ["So21UITableViewDataSourceP", "sectionIndexTitles"]
+- ["So21UITableViewDataSourceP", "sectionIndexTitlesForTableView"]
+- ["So21UITableViewDataSourceP", "tableView"]
+- !private ["So21UITableViewDataSourceP", "userList"]
+- ["So21UITableViewDataSourceP", "viewForZooming"]
+- ["So21UITableViewDataSourceP", "viewForZoomingInScrollView"]
+- !private ["So19UITableViewDelegateP", "UserListCell"]
+- ["So19UITableViewDelegateP", ""]
+- ["So19UITableViewDelegateP", "indexPathForPreferredFocusedView"]
+- ["So19UITableViewDelegateP", "indexPathForPreferredFocusedViewInTableView"]
+- ["So19UITableViewDelegateP", "numberOfSections"]
+- ["So19UITableViewDelegateP", "numberOfSectionsInTableView"]
+- ["So19UITableViewDelegateP", "scrollViewDidChangeAdjustedContentInset"]
+- ["So19UITableViewDelegateP", "scrollViewDidEndDecelerating"]
+- ["So19UITableViewDelegateP", "scrollViewDidEndDragging"]
+- ["So19UITableViewDelegateP", "scrollViewDidEndScrollingAnimation"]
+- ["So19UITableViewDelegateP", "scrollViewDidEndZooming"]
+- ["So19UITableViewDelegateP", "scrollViewDidScroll"]
+- ["So19UITableViewDelegateP", "scrollViewDidScrollToTop"]
+- ["So19UITableViewDelegateP", "scrollViewDidZoom"]
+- ["So19UITableViewDelegateP", "scrollViewShouldScrollToTop"]
+- ["So19UITableViewDelegateP", "scrollViewWillBeginDecelerating"]
+- ["So19UITableViewDelegateP", "scrollViewWillBeginDragging"]
+- ["So19UITableViewDelegateP", "scrollViewWillBeginZooming"]
+- ["So19UITableViewDelegateP", "scrollViewWillEndDragging"]
+- ["So19UITableViewDelegateP", "sectionIndexTitles"]
+- ["So19UITableViewDelegateP", "sectionIndexTitlesForTableView"]
+- ["So19UITableViewDelegateP", "tableView"]
+- !private ["So19UITableViewDelegateP", "userList"]
+- ["So19UITableViewDelegateP", "viewForZooming"]
+- ["So19UITableViewDelegateP", "viewForZoomingInScrollView"]
+- !private ["So18UITraitEnvironmentP", "configureCell"]
+- !private ["So18UITraitEnvironmentP", "dequeueReusableCell"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So23UIUserActivityRestoringP", "configureCell"]
+- !private ["So23UIUserActivityRestoringP", "dequeueReusableCell"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So6UIViewC", "configureCell"]
+- !private ["So6UIViewC", "dequeueReusableCell"]
+- !private ["So6UIViewC", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "IndexPath"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "Int"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "UITableView"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "UITableViewCell"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "UserEntity"]
+- !private ["11Massive_MVC22UserDataSourceDelegateC", "UserListCell"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "deinit"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "indexPathForPreferredFocusedView"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "indexPathForPreferredFocusedViewInTableView"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "init"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "numberOfSections"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "numberOfSectionsInTableView"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewDidChangeAdjustedContentInset"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewDidEndDecelerating"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewDidEndDragging"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewDidEndScrollingAnimation"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewDidEndZooming"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewDidScroll"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewDidScrollToTop"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewDidZoom"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewShouldScrollToTop"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewWillBeginDecelerating"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewWillBeginDragging"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewWillBeginZooming"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "scrollViewWillEndDragging"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "sectionIndexTitles"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "sectionIndexTitlesForTableView"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "tableView"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "userList"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "viewForZooming"]
+- ["11Massive_MVC22UserDataSourceDelegateC", "viewForZoomingInScrollView"]
+- !private ["11Massive_MVC12UserListCellC", "configureCell"]
+- !private ["11Massive_MVC12UserListCellC", "deinit"]
+- !private ["11Massive_MVC12UserListCellC", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "configureCell"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "dequeueReusableCell"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UserListCell"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configureCell"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dequeueReusableCell"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "indexPathForPreferredFocusedView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "indexPathForPreferredFocusedViewInTableView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "numberOfSections"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "numberOfSectionsInTableView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidChangeAdjustedContentInset"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidEndDecelerating"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidEndDragging"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidEndScrollingAnimation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidEndZooming"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidScroll"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidScrollToTop"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewDidZoom"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewShouldScrollToTop"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewWillBeginDecelerating"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewWillBeginDragging"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewWillBeginZooming"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "scrollViewWillEndDragging"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "sectionIndexTitles"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "sectionIndexTitlesForTableView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tableView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userList"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "viewForZooming"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "viewForZoomingInScrollView"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "row"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "10Foundation9IndexPathV"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sk"
+- !private "Sm"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- !private "s12StaticStringV"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So23UIDataSourceTranslatingP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- !private "So11UITableViewC"
+- !private "So15UITableViewCellC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "9Alamofire14URLConvertibleP"
+- "11Massive_MVC22UserDataSourceDelegateC"
+- !private "11Massive_MVC12UserListCellC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/AlamofireImage/AlamofireImage.swiftmodule/x86_64.swiftmodule"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/Alamofire/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/ObjectMapper/ObjectMapper.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON-umbrella.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/AlamofireImage/AlamofireImage-umbrella.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/Alamofire/Alamofire-umbrella.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/ObjectMapper/ObjectMapper-umbrella.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/SwiftyJSON/Swift Compatibility Header/SwiftyJSON-Swift.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/AlamofireImage/Swift Compatibility Header/AlamofireImage-Swift.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/Alamofire/Swift Compatibility Header/Alamofire-Swift.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/ObjectMapper/Swift Compatibility Header/ObjectMapper-Swift.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Table-Research/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/AlamofireImage/AlamofireImage.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Table-Research/build/Debug-iphonesimulator/AlamofireImage/AlamofireImage.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/Alamofire/Alamofire.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Table-Research/build/Debug-iphonesimulator/Alamofire/Alamofire.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/ObjectMapper/ObjectMapper.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Table-Research/build/Debug-iphonesimulator/ObjectMapper/ObjectMapper.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Table-Research/build/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.modulemap"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "e71f319a8971a00242b6d27afa79ad50"

@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "7df8d6fe1398ee82a1e052fe3ca23cd4"
+build_time: [1584079828, 835823000]
+inputs:
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Massive-MVC/Cell/UserListCell.swift": [1584079828, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Massive-MVC/ViewController.swift": [1584071527, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Massive-MVC/AppDelegate.swift": [1584065278, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Massive-MVC/DatasService/UserService.swift": [1584069465, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Massive-MVC/UserDataSourceDelegate.swift": [1584075136, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Massive-MVC/Models/User.swift": [1584068654, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Massive-MVC/Views/UserListView.swift": [1584071368, 0]

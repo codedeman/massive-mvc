@@ -1,0 +1,652 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "11Massive_MVC14ViewControllerC"
+provides-member:
+- ["11Massive_MVC14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+depends-top-level:
+- !private "AssignmentPrecedence"
+- !private "CGRect"
+- !private "DispatchQueue"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- !private "StringLiteralType"
+- "UIViewController"
+- "UserApiClient"
+- "UserDataSourceDelegate"
+- "UserEntity"
+- "UserListView"
+- !private "UserService"
+- "ViewController"
+- !private "debugPrint"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "setSourceDelegate"]
+- !private ["So6CGRectV", "height"]
+- !private ["So6CGRectV", "init"]
+- !private ["So6CGRectV", "width"]
+- !private ["s7CVarArgP", "CGRect"]
+- !private ["s7CVarArgP", "DispatchQueue"]
+- !private ["s7CVarArgP", "UserDataSourceDelegate"]
+- !private ["s7CVarArgP", "UserListView"]
+- !private ["s7CVarArgP", "UserService"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "createView"]
+- !private ["s7CVarArgP", "debugPrint"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "mainView"]
+- !private ["s7CVarArgP", "setSourceDelegate"]
+- !private ["s7CVarArgP", "userDelegate"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CGRect"]
+- !private ["s28CustomDebugStringConvertibleP", "DispatchQueue"]
+- !private ["s28CustomDebugStringConvertibleP", "UserDataSourceDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "UserListView"]
+- !private ["s28CustomDebugStringConvertibleP", "UserService"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "createView"]
+- !private ["s28CustomDebugStringConvertibleP", "debugPrint"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "mainView"]
+- !private ["s28CustomDebugStringConvertibleP", "setSourceDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "userDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s17CustomReflectableP", "addSubview"]
+- !private ["s17CustomReflectableP", "frame"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "setSourceDelegate"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s23CustomStringConvertibleP", "CGRect"]
+- !private ["s23CustomStringConvertibleP", "DispatchQueue"]
+- !private ["s23CustomStringConvertibleP", "UserDataSourceDelegate"]
+- !private ["s23CustomStringConvertibleP", "UserListView"]
+- !private ["s23CustomStringConvertibleP", "UserService"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "createView"]
+- !private ["s23CustomStringConvertibleP", "debugPrint"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "mainView"]
+- !private ["s23CustomStringConvertibleP", "setSourceDelegate"]
+- !private ["s23CustomStringConvertibleP", "userDelegate"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "addSubview"]
+- !private ["Se", "frame"]
+- !private ["Se", "height"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "setSourceDelegate"]
+- !private ["Se", "width"]
+- !private ["So18OS_dispatch_objectC", "async"]
+- !private ["So18OS_dispatch_objectC", "main"]
+- !private ["So17OS_dispatch_queueC", "async"]
+- !private ["So17OS_dispatch_queueC", "main"]
+- !private ["SE", "addSubview"]
+- !private ["SE", "frame"]
+- !private ["SE", "height"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "setSourceDelegate"]
+- !private ["SE", "width"]
+- !private ["SQ", "CGRect"]
+- !private ["SQ", "DispatchQueue"]
+- !private ["SQ", "UserDataSourceDelegate"]
+- !private ["SQ", "UserListView"]
+- !private ["SQ", "UserService"]
+- ["SQ", ""]
+- !private ["SQ", "addSubview"]
+- !private ["SQ", "async"]
+- !private ["SQ", "createView"]
+- !private ["SQ", "debugPrint"]
+- !private ["SQ", "frame"]
+- !private ["SQ", "height"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "main"]
+- !private ["SQ", "mainView"]
+- !private ["SQ", "setSourceDelegate"]
+- !private ["SQ", "userDelegate"]
+- !private ["SQ", "view"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "width"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "addSubview"]
+- !private ["s23ExpressibleByNilLiteralP", "frame"]
+- !private ["s23ExpressibleByNilLiteralP", "setSourceDelegate"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "CGRect"]
+- !private ["SH", "DispatchQueue"]
+- !private ["SH", "UserDataSourceDelegate"]
+- !private ["SH", "UserListView"]
+- !private ["SH", "UserService"]
+- ["SH", ""]
+- !private ["SH", "addSubview"]
+- !private ["SH", "async"]
+- !private ["SH", "createView"]
+- !private ["SH", "debugPrint"]
+- !private ["SH", "frame"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "main"]
+- !private ["SH", "mainView"]
+- !private ["SH", "setSourceDelegate"]
+- !private ["SH", "userDelegate"]
+- !private ["SH", "view"]
+- !private ["SH", "viewDidLoad"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "CGRect"]
+- !private ["So8NSCodingP", "DispatchQueue"]
+- !private ["So8NSCodingP", "UserDataSourceDelegate"]
+- !private ["So8NSCodingP", "UserListView"]
+- !private ["So8NSCodingP", "UserService"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "createView"]
+- !private ["So8NSCodingP", "debugPrint"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "mainView"]
+- !private ["So8NSCodingP", "setSourceDelegate"]
+- !private ["So8NSCodingP", "userDelegate"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "CGRect"]
+- !private ["So26NSExtensionRequestHandlingP", "DispatchQueue"]
+- !private ["So26NSExtensionRequestHandlingP", "UserDataSourceDelegate"]
+- !private ["So26NSExtensionRequestHandlingP", "UserListView"]
+- !private ["So26NSExtensionRequestHandlingP", "UserService"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "createView"]
+- !private ["So26NSExtensionRequestHandlingP", "debugPrint"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "mainView"]
+- !private ["So26NSExtensionRequestHandlingP", "userDelegate"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "CGRect"]
+- !private ["So8NSObjectC", "DispatchQueue"]
+- ["So8NSObjectC", "UserApiClient"]
+- ["So8NSObjectC", "UserDataSourceDelegate"]
+- ["So8NSObjectC", "UserEntity"]
+- ["So8NSObjectC", "UserListView"]
+- !private ["So8NSObjectC", "UserService"]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "async"]
+- ["So8NSObjectC", "createView"]
+- !private ["So8NSObjectC", "debugPrint"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "main"]
+- ["So8NSObjectC", "mainView"]
+- !private ["So8NSObjectC", "setSourceDelegate"]
+- ["So8NSObjectC", "userApiWorker"]
+- ["So8NSObjectC", "userDelegate"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "CGRect"]
+- !private ["So8NSObjectP", "DispatchQueue"]
+- !private ["So8NSObjectP", "UserDataSourceDelegate"]
+- !private ["So8NSObjectP", "UserListView"]
+- !private ["So8NSObjectP", "UserService"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addSubview"]
+- !private ["So8NSObjectP", "async"]
+- !private ["So8NSObjectP", "createView"]
+- !private ["So8NSObjectP", "debugPrint"]
+- !private ["So8NSObjectP", "frame"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "mainView"]
+- !private ["So8NSObjectP", "setSourceDelegate"]
+- !private ["So8NSObjectP", "userDelegate"]
+- !private ["So8NSObjectP", "view"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "main"]
+- !private ["Sq", "addSubview"]
+- !private ["Sq", "frame"]
+- !private ["Sq", "setSourceDelegate"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "setSourceDelegate"]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "setSourceDelegate"]
+- !private ["So21UIAppearanceContainerP", "CGRect"]
+- !private ["So21UIAppearanceContainerP", "DispatchQueue"]
+- !private ["So21UIAppearanceContainerP", "UserDataSourceDelegate"]
+- !private ["So21UIAppearanceContainerP", "UserListView"]
+- !private ["So21UIAppearanceContainerP", "UserService"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "createView"]
+- !private ["So21UIAppearanceContainerP", "debugPrint"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "mainView"]
+- !private ["So21UIAppearanceContainerP", "setSourceDelegate"]
+- !private ["So21UIAppearanceContainerP", "userDelegate"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "CGRect"]
+- !private ["So18UIContentContainerP", "DispatchQueue"]
+- !private ["So18UIContentContainerP", "UserDataSourceDelegate"]
+- !private ["So18UIContentContainerP", "UserListView"]
+- !private ["So18UIContentContainerP", "UserService"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "createView"]
+- !private ["So18UIContentContainerP", "debugPrint"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "mainView"]
+- !private ["So18UIContentContainerP", "userDelegate"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "setSourceDelegate"]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "setSourceDelegate"]
+- !private ["So18UIFocusEnvironmentP", "CGRect"]
+- !private ["So18UIFocusEnvironmentP", "DispatchQueue"]
+- !private ["So18UIFocusEnvironmentP", "UserDataSourceDelegate"]
+- !private ["So18UIFocusEnvironmentP", "UserListView"]
+- !private ["So18UIFocusEnvironmentP", "UserService"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "createView"]
+- !private ["So18UIFocusEnvironmentP", "debugPrint"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "mainView"]
+- !private ["So18UIFocusEnvironmentP", "setSourceDelegate"]
+- !private ["So18UIFocusEnvironmentP", "userDelegate"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "setSourceDelegate"]
+- !private ["So20UIFocusItemContainerP", "addSubview"]
+- !private ["So20UIFocusItemContainerP", "frame"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "setSourceDelegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGRect"]
+- !private ["So30UIPasteConfigurationSupportingP", "DispatchQueue"]
+- !private ["So30UIPasteConfigurationSupportingP", "UserDataSourceDelegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "UserListView"]
+- !private ["So30UIPasteConfigurationSupportingP", "UserService"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "createView"]
+- !private ["So30UIPasteConfigurationSupportingP", "debugPrint"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "mainView"]
+- !private ["So30UIPasteConfigurationSupportingP", "setSourceDelegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "userDelegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "CGRect"]
+- !private ["So11UIResponderC", "DispatchQueue"]
+- ["So11UIResponderC", "UserApiClient"]
+- ["So11UIResponderC", "UserDataSourceDelegate"]
+- ["So11UIResponderC", "UserEntity"]
+- ["So11UIResponderC", "UserListView"]
+- !private ["So11UIResponderC", "UserService"]
+- !private ["So11UIResponderC", "addSubview"]
+- ["So11UIResponderC", "createView"]
+- !private ["So11UIResponderC", "debugPrint"]
+- !private ["So11UIResponderC", "frame"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "mainView"]
+- !private ["So11UIResponderC", "setSourceDelegate"]
+- ["So11UIResponderC", "userApiWorker"]
+- ["So11UIResponderC", "userDelegate"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "CGRect"]
+- !private ["So30UIResponderStandardEditActionsP", "DispatchQueue"]
+- !private ["So30UIResponderStandardEditActionsP", "UserDataSourceDelegate"]
+- !private ["So30UIResponderStandardEditActionsP", "UserListView"]
+- !private ["So30UIResponderStandardEditActionsP", "UserService"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "createView"]
+- !private ["So30UIResponderStandardEditActionsP", "debugPrint"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "mainView"]
+- !private ["So30UIResponderStandardEditActionsP", "setSourceDelegate"]
+- !private ["So30UIResponderStandardEditActionsP", "userDelegate"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So16UIStateRestoringP", "CGRect"]
+- !private ["So16UIStateRestoringP", "DispatchQueue"]
+- !private ["So16UIStateRestoringP", "UserDataSourceDelegate"]
+- !private ["So16UIStateRestoringP", "UserListView"]
+- !private ["So16UIStateRestoringP", "UserService"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "createView"]
+- !private ["So16UIStateRestoringP", "debugPrint"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "mainView"]
+- !private ["So16UIStateRestoringP", "userDelegate"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So18UITraitEnvironmentP", "CGRect"]
+- !private ["So18UITraitEnvironmentP", "DispatchQueue"]
+- !private ["So18UITraitEnvironmentP", "UserDataSourceDelegate"]
+- !private ["So18UITraitEnvironmentP", "UserListView"]
+- !private ["So18UITraitEnvironmentP", "UserService"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "createView"]
+- !private ["So18UITraitEnvironmentP", "debugPrint"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "mainView"]
+- !private ["So18UITraitEnvironmentP", "setSourceDelegate"]
+- !private ["So18UITraitEnvironmentP", "userDelegate"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "CGRect"]
+- !private ["So23UIUserActivityRestoringP", "DispatchQueue"]
+- !private ["So23UIUserActivityRestoringP", "UserDataSourceDelegate"]
+- !private ["So23UIUserActivityRestoringP", "UserListView"]
+- !private ["So23UIUserActivityRestoringP", "UserService"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addSubview"]
+- !private ["So23UIUserActivityRestoringP", "createView"]
+- !private ["So23UIUserActivityRestoringP", "debugPrint"]
+- !private ["So23UIUserActivityRestoringP", "frame"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "mainView"]
+- !private ["So23UIUserActivityRestoringP", "setSourceDelegate"]
+- !private ["So23UIUserActivityRestoringP", "userDelegate"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "setSourceDelegate"]
+- !private ["So16UIViewControllerC", "CGRect"]
+- !private ["So16UIViewControllerC", "DispatchQueue"]
+- ["So16UIViewControllerC", "UserApiClient"]
+- ["So16UIViewControllerC", "UserDataSourceDelegate"]
+- ["So16UIViewControllerC", "UserEntity"]
+- ["So16UIViewControllerC", "UserListView"]
+- !private ["So16UIViewControllerC", "UserService"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "createView"]
+- !private ["So16UIViewControllerC", "debugPrint"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "mainView"]
+- ["So16UIViewControllerC", "userApiWorker"]
+- ["So16UIViewControllerC", "userDelegate"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["11Massive_MVC13UserApiClientP", "requestUserWithUsername"]
+- !private ["11Massive_MVC22UserDataSourceDelegateC", "init"]
+- !private ["11Massive_MVC12UserListViewC", "deinit"]
+- !private ["11Massive_MVC12UserListViewC", "init"]
+- !private ["11Massive_MVC12UserListViewC", "setSourceDelegate"]
+- !private ["11Massive_MVC11UserServiceC", "deinit"]
+- !private ["11Massive_MVC11UserServiceC", "requestUserWithUsername"]
+- !private ["11Massive_MVC14ViewControllerC", "CGRect"]
+- !private ["11Massive_MVC14ViewControllerC", "DispatchQueue"]
+- ["11Massive_MVC14ViewControllerC", "UserApiClient"]
+- ["11Massive_MVC14ViewControllerC", "UserDataSourceDelegate"]
+- ["11Massive_MVC14ViewControllerC", "UserEntity"]
+- ["11Massive_MVC14ViewControllerC", "UserListView"]
+- !private ["11Massive_MVC14ViewControllerC", "UserService"]
+- ["11Massive_MVC14ViewControllerC", "createView"]
+- !private ["11Massive_MVC14ViewControllerC", "debugPrint"]
+- ["11Massive_MVC14ViewControllerC", "init"]
+- ["11Massive_MVC14ViewControllerC", "mainView"]
+- ["11Massive_MVC14ViewControllerC", "userApiWorker"]
+- ["11Massive_MVC14ViewControllerC", "userDelegate"]
+- !private ["11Massive_MVC14ViewControllerC", "view"]
+- ["11Massive_MVC14ViewControllerC", "viewDidLoad"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setSourceDelegate"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DispatchQueue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UserDataSourceDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UserListView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UserService"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "createView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "debugPrint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mainView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setSourceDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "addSubview"]
+- !private ["s21_ObjectiveCBridgeableP", "frame"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "setSourceDelegate"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- !private "So6CGRectV"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So9OS_objectC"
+- !private "Sq"
+- !private "Sm"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So20UIScrollViewDelegateP"
+- "So16UIStateRestoringP"
+- !private "So21UITableViewDataSourceP"
+- !private "So19UITableViewDelegateP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "9Alamofire14URLConvertibleP"
+- !private "11Massive_MVC13UserApiClientP"
+- !private "11Massive_MVC22UserDataSourceDelegateC"
+- !private "11Massive_MVC12UserListViewC"
+- !private "11Massive_MVC11UserServiceC"
+- "11Massive_MVC14ViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/AlamofireImage/AlamofireImage.swiftmodule/x86_64.swiftmodule"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/Alamofire/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/ObjectMapper/ObjectMapper.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON-umbrella.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/AlamofireImage/AlamofireImage-umbrella.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/Alamofire/Alamofire-umbrella.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/ObjectMapper/ObjectMapper-umbrella.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/SwiftyJSON/Swift Compatibility Header/SwiftyJSON-Swift.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/AlamofireImage/Swift Compatibility Header/AlamofireImage-Swift.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/Alamofire/Swift Compatibility Header/Alamofire-Swift.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/ObjectMapper/Swift Compatibility Header/ObjectMapper-Swift.h"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Table-Research/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/AlamofireImage/AlamofireImage.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Table-Research/build/Debug-iphonesimulator/AlamofireImage/AlamofireImage.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/Alamofire/Alamofire.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Table-Research/build/Debug-iphonesimulator/Alamofire/Alamofire.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/ObjectMapper/ObjectMapper.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Table-Research/build/Debug-iphonesimulator/ObjectMapper/ObjectMapper.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/build/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.modulemap"
+- "/Users/macosx/Desktop/IOS-OBJ/Table-Research/build/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.modulemap"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode 10.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "4c6c3dd4ad8e9163e67e66d546db4a64"

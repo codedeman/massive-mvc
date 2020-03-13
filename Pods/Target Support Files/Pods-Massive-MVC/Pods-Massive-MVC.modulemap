@@ -1,0 +1,6 @@
+module Pods_Massive_MVC {
+  umbrella header "Pods-Massive-MVC-umbrella.h"
+
+  export *
+  module * { export * }
+}

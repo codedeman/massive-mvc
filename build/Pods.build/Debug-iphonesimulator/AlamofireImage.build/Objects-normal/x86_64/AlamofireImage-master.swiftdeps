@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "f36087d3fa7db5ad8b8bd8d8087afac0"
+build_time: [1584068552, 252812000]
+inputs:
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Pods/AlamofireImage/Source/AFIError.swift": [1584068114, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Pods/AlamofireImage/Source/Image.swift": [1584068114, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Pods/AlamofireImage/Source/ImageCache.swift": [1584068114, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Pods/AlamofireImage/Source/ImageDownloader.swift": [1584068114, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Pods/AlamofireImage/Source/ImageFilter.swift": [1584068114, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1584068114, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1584068114, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1584068114, 0]
+  "/Users/macosx/Desktop/IOS-OBJ/Massive-MVC/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1584068114, 0]

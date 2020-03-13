@@ -1,0 +1,6 @@
+module Pods_Massive_MVC_Massive_MVCUITests {
+  umbrella header "Pods-Massive-MVC-Massive-MVCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
